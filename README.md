@@ -2,8 +2,11 @@
 
 This project applies transfer learning techniques to classify indoor scenes using the Kaggle Indoor CVPR09 dataset. Four pretrained models were evaluated for comparative performance: **Vision Transformer**, **ConvNeXt**, **EfficientNetB0**, and **Swin-Small**.
 
+🔗 **View the Full Project Notebook with Outputs**  
+👉 [Click here to open the notebook](https://trulliee.github.io/CSCI218-foundationsOfAI/)
+
 ## 🧠 Project Highlights
-- Dataset: [Kaggle Indoor CVPR09](https://www.kaggle.com/datasets/puneet6060/intel-image-classification)
+- Dataset: [itsahmad/indoor-scenes-cvpr-2019](https://www.kaggle.com/datasets/itsahmad/indoor-scenes-cvpr-2019)
 - Models: ViT, ConvNeXt, EfficientNetB0, Swin-Small
 - Framework: TensorFlow & Keras
 - Platform: Jupyter Notebook
